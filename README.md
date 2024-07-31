@@ -11,13 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0000FF&vCenter=true&size=22"></a>
 </p> 
 
-<p align="center">
-  <br><br>
-  <img src="images/snake.svg" style="background:#161b22;">
-  <br><br><br><br>
-</p>
-
-
 # 🚀 About Me
 Hi there!! My name is ahmed abdallah i'm a Flutter developer with a passion of programming and mobile Application development
 
@@ -39,3 +32,9 @@ C++, dart, Flutter, python
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ahmed-abdallah-a6a234264)])
+
+<p align="center">
+  <br><br>
+  <img src="images/snake.svg" style="background:#161b22;">
+  <br><br><br><br>
+</p>
