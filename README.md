@@ -13,7 +13,7 @@
 
 <p align="center">
   <br><br>
-  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+  <img src="images/snake.svg" style="background:#161b22;">
   <br><br><br><br>
 </p>
 
