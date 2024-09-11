@@ -32,6 +32,7 @@ C++, dart, Flutter, python
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdallah-a6a234264)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdallah-902032322)
 
 <p align="center">
   <br><br>
