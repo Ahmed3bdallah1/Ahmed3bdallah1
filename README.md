@@ -34,6 +34,11 @@ C++, dart, Flutter, python
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdallah-a6a234264)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdallah-902032322)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmed3bdallah1&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3bdallah1&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3bdallah1&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <p align="center">
   <br><br>
   <img src="images/snake.svg" style="background:#161b22;">
