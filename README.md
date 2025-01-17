@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=8000&pause=1000&center=true&vCenter=true&width=445&height=60&lines=Flutter+developer;Always+learn+new+things+with+passion" alt="Typing SVG" /></a></p> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=8000&pause=1000&center=true&vCenter=true&width=445&height=60&lines=Flutter+developer;Always+learn+things+with+passion" alt="Typing SVG" /></a></a></p> 
 
 # 🚀 About Me
 Hi there!! My name is ahmed abdallah i'm a Flutter developer with a passion of programming and mobile Application development
