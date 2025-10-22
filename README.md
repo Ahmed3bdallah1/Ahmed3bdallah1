@@ -13,7 +13,7 @@
 # 🚀 About Me
 Hi there!! My name is ahmed abdallah i'm a Flutter developer with a passion of programming and mobile Application development
 
-I've been working in the tech field for around 2 years, and during this time i have had the opportunity to work on a veriety of exiting projects and tasks, from a Python freelancer doing a small tasks to developing mobile apps for ios and android, i have developed a professional apps that meets user's needs.
+I've been working in the tech field for around 5 years, and during this time i have had the opportunity to work on a veriety of exiting projects and tasks, from a Python freelancer doing a small tasks to developing mobile apps for ios and android, i have developed a professional apps that meets user's needs.
 
 And in my free time, i enjoy to learn a new concepts a new technologies and exploring about it, exploring the outdoors, and i'm a reader and love to discover a new books in a wide range of topics.
 
@@ -24,7 +24,7 @@ If you are interested in mobile develoment, or just want to connect with my fell
 
 
 ## 🛠 Skills
-C++, dart, Flutter, python
+C++, Dart, Flutter, Python, TypeScript, PostgresSql
 
 
 
