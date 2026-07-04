@@ -8,10 +8,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=8000&pause=1000&center=true&vCenter=true&width=445&height=60&lines=Flutter+developer;Always+learn+things+with+passion" alt="Typing SVG" /></a></a></p> 
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=co+headline&weight=700&pause=1000&width=435&lines=Senior+Mobile+Engineer" alt="Typing SVG" /></a>
+  
 # 🚀 About Me
-Hi there!! My name is ahmed abdallah i'm a Flutter developer with a passion of programming and mobile Application development
+Hi there!! My name is Ahmed abdallah i'm a Senior Mobile Engineer with a passion of programming and mobile Application development using Flutter & React-Native
 
 I've been working in the tech field for around 5 years, and during this time i have had the opportunity to work on a veriety of exiting projects and tasks, from a Python freelancer doing a small tasks to developing mobile apps for ios and android, i have developed a professional apps that meets user's needs.
 
