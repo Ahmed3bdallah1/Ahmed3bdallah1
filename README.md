@@ -124,8 +124,10 @@ Faculty of Computer Science, Zagazig University · Zagazig, Egypt
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed3bdallah1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3bdallah1&layout=compact&langs_count=6&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Top languages" height="165" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahmed3bdallah1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3bdallah1&layout=compact&langs_count=8&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Top languages" />
+  <br />
+  <img width="97%" src="https://streak-stats.demolab.com?user=Ahmed3bdallah1&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
