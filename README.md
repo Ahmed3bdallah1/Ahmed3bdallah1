@@ -2,7 +2,8 @@
 
 # Ahmed Abdallah
 
-**Senior Mobile Engineer**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=8000&pause=1000&center=true&vCenter=true&width=445&height=60&lines=Senior+Mobile+Engineer;Always+learn+things+with+passion" alt="Typing SVG" /></a></a></p>   
 
 Flutter · React Native · Clean Architecture
 
@@ -40,7 +41,29 @@ My focus is **clean architecture**, **SOLID**, and production-grade state manage
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,python,firebase,supabase,postgres,docker,githubactions,git,redux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
 </p>
 
 | Area | Technologies |
@@ -62,7 +85,7 @@ My focus is **clean architecture**, **SOLID**, and production-grade state manage
 
 ## Experience
 
-**Senior Flutter Developer** · Qeema Tech  
+**Senior Mobile Engineer** · Qeema Tech  
 Apr 2025 — Present · Full-time · On-site  
 Leading the mobile team, optimizing performance, and shipping client-facing products with GitFlow.
 
